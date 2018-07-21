@@ -12,14 +12,14 @@
  * Bitmex Websocket
  */
 
-namespace Bitmex;
+namespace BitmexPHP;
 
 /**
  * Main Bitmex class
  *
  * Eg. Usage:
  * require 'vendor/autoload.php';
- * $api = new Bitmex\\API();
+ * $api = new BitmexPHP\\API();
  */
 class API {
 
