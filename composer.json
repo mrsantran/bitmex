@@ -1,7 +1,7 @@
 {
     "name": "santran/bitmex",
     "description": "PHP BITMEX API is an asynchronous PHP library for the Bitmex API designed to be easy to use.",
-    "keywords": ["bitmex", "cryptocurrency", "WebSocket", "trading", "api", "laravel"],
+    "keywords": ["bitmex", "cryptocurrency", "WebSocket", "trading", "api"],
     "license": "MIT",
     "authors": [
         {
